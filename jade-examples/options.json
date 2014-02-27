@@ -1,0 +1,8 @@
+{
+    "pets": [
+        { "name": "tobi", "age": 2 },
+        { "name": "loki", "age": 1 },
+        { "name": "jane", "age": 5 }
+    ],
+    "name": "tj"
+}
