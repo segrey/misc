@@ -2,7 +2,9 @@ span {
   color: orange;
   height: 10px;
 }
-div {
+div,
+p {
   color: orange;
+  background: #000002;
   height: 10px;
 }
